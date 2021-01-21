@@ -1,3 +1,4 @@
+[Discussion Post (created on 21/0/2021 at 15:28)](https://leetcode.com/problems/maximum-product-subarray/submissions/)  
 <h2>152. Maximum Product Subarray</h2><h3>Medium</h3><hr><div><p>Given an integer array&nbsp;<code>nums</code>, find the contiguous subarray within an array (containing at least one number) which has the largest product.</p>
 
 <p><strong>Example 1:</strong></p>
