@@ -1,3 +1,4 @@
+[Discussion Post (created on 2/1/2021 at 15:50)](https://leetcode.com/problems/lexicographical-numbers/submissions/)  
 <h2>386. Lexicographical Numbers</h2><h3>Medium</h3><hr><div><p>Given an integer <i>n</i>, return 1 - <i>n</i> in lexicographical order.</p>
 
 <p>For example, given 13, return: [1,10,11,12,13,2,3,4,5,6,7,8,9].</p>
