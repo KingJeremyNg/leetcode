@@ -11,7 +11,6 @@ var filterRestaurants = function(restaurants, veganFriendly, maxPrice, maxDistan
             price <= maxPrice &&
             distance <= maxDistance
     )
-    console.log(arr);
     arr.sort((a, b) => {
         if (a[1] - b[1] !== 0) return b[1] - a[1];
         else return b[0] - a[0];
