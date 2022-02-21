@@ -5,11 +5,11 @@ class Solution(object):
         :rtype: int
         """
         max = -1
-        for i in range(len(nums)):
-            for j in range(len(nums)):
+        for i in range(0, len(nums)):
+            for j in range(i + 1, len(nums)):
                 if i == j:
                     continue
                 val = abs(nums[j] - nums[i])
-                if val > max and i < j and nums[i] < nums[j]:
+                if val > max and nums[i] < nums[j]:
                     max = val
         return max
